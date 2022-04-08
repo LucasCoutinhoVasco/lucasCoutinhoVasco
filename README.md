@@ -2,7 +2,7 @@
 
 
 
-- 🔭 trabalho com fron-ent
+- 🔭 trabalho com front-ent
 - 🌱 estudo javaScript na alura
 - 📫 contate-me no email: lucass.c2003@icloud.com
 
