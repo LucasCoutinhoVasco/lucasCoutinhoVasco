@@ -1,4 +1,4 @@
-## olá me chamo Lucas Coutinho !!!
+## olá, me chamo Lucas Coutinho !!!
 
 
 
